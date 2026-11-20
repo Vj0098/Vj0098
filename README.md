@@ -17,8 +17,6 @@
   <a href="mailto:vishnutej2004@gmail.com">Email</a>
 </p>
 
-The fish above is redrawn from public activity on [Vj0098](https://github.com/Vj0098). Languages color it. Contributions grow it.
-
 ## Selected work
 
 | Project | What it is |
