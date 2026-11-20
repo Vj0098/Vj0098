@@ -5,28 +5,135 @@
 <h1 align="center">Vishnu Teja</h1>
 
 <p align="center">
-  Web apps, mobile screens, and models that score or detect.<br/>
-  TypeScript, React, Node, Python, and a little Rust. India.
+  <img src="assets/shine.svg" width="176" height="14" alt="" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vj0098">GitHub</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishnutej0098">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:vishnutej2004@gmail.com">Email</a>
+  Web apps, mobile screens, and models that score or detect.<br/>
+  India.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vj0098">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg" />
+      <img src="assets/github-light.svg" width="44" height="44" alt="GitHub" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishnutej0098">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg" />
+      <img src="assets/linkedin-light.svg" width="44" height="44" alt="LinkedIn" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vishnutej2004@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/mail-dark.svg" />
+      <img src="assets/mail-light.svg" width="44" height="44" alt="Email" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+    <img src="assets/stack-light.svg" width="548" height="72" alt="TypeScript, React, Node.js, Express, Python, FastAPI, Rust, and MongoDB" />
+  </picture>
 </p>
 
 ## Selected work
 
-| Project | What it is |
-| --- | --- |
-| [Resume Evaluator](https://github.com/Vj0098/Resume-evaluator) | Ranks a resume, then checks the same person on LinkedIn and GitHub. Python. |
-| [WhatsApp Memory Vault](https://github.com/Vj0098/WA-Chat-Export) | Rust parser and a FastAPI service for exported chats, with a TypeScript front end. |
-| [Deep Detect](https://github.com/Vj0098/Deep-Detect) | Deep-learning detection behind a Streamlit app. [Demo](https://vishnutej.streamlit.app/). |
-| [Note](https://github.com/Vj0098/Note) | Notes, on React, Express, and MongoDB. |
-| [Savings](https://github.com/Vj0098/Savings-app) | Expo app. A card carousel on a phone, a table on a tablet. |
-| [Fake News Detection](https://github.com/Vj0098/Fake-News-Detection) | Trains a classifier, then checks a piece of news from a small web front end. |
+<details>
+<summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/python-dark.svg" />
+    <img src="assets/icons/python-light.svg" width="28" height="28" alt="" />
+  </picture>
+  &nbsp;<strong>Resume Evaluator</strong> · Python
+</summary>
+
+Ranks a resume, then checks the same person on LinkedIn and GitHub.
+
+[Open repository](https://github.com/Vj0098/Resume-evaluator)
+
+</details>
+
+<details>
+<summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/rust-dark.svg" />
+    <img src="assets/icons/rust-light.svg" width="28" height="28" alt="" />
+  </picture>
+  &nbsp;<strong>WhatsApp Memory Vault</strong> · Rust
+</summary>
+
+Rust parser and a FastAPI service for exported chats, with a TypeScript front end.
+
+[Open repository](https://github.com/Vj0098/WA-Chat-Export)
+
+</details>
+
+<details>
+<summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/python-dark.svg" />
+    <img src="assets/icons/python-light.svg" width="28" height="28" alt="" />
+  </picture>
+  &nbsp;<strong>Deep Detect</strong> · Python
+</summary>
+
+Deep-learning detection behind a Streamlit app.
+
+[Open repository](https://github.com/Vj0098/Deep-Detect) · [Demo](https://vishnutej.streamlit.app/)
+
+</details>
+
+<details>
+<summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/react-dark.svg" />
+    <img src="assets/icons/react-light.svg" width="28" height="28" alt="" />
+  </picture>
+  &nbsp;<strong>Note</strong> · React
+</summary>
+
+Notes, on React, Express, and MongoDB.
+
+[Open repository](https://github.com/Vj0098/Note)
+
+</details>
+
+<details>
+<summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/react-dark.svg" />
+    <img src="assets/icons/react-light.svg" width="28" height="28" alt="" />
+  </picture>
+  &nbsp;<strong>Savings</strong> · Expo
+</summary>
+
+A card carousel on a phone, a table on a tablet.
+
+[Open repository](https://github.com/Vj0098/Savings-app)
+
+</details>
+
+<details>
+<summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/python-dark.svg" />
+    <img src="assets/icons/python-light.svg" width="28" height="28" alt="" />
+  </picture>
+  &nbsp;<strong>Fake News Detection</strong> · Python
+</summary>
+
+Trains a classifier, then checks a piece of news from a small web front end.
+
+[Open repository](https://github.com/Vj0098/Fake-News-Detection)
+
+</details>
 
 ## Activity
 
